@@ -1,0 +1,3 @@
+/home/cryptomancer/Desktop/work/chess_embedding/trainingdata-tool/build/CMakeFiles/rebuild_cache.dir
+/home/cryptomancer/Desktop/work/chess_embedding/trainingdata-tool/build/CMakeFiles/edit_cache.dir
+/home/cryptomancer/Desktop/work/chess_embedding/trainingdata-tool/build/CMakeFiles/trainingdata-tool.dir
